@@ -3,7 +3,7 @@
 <details>
   <summary>:technologist: About Me</summary>
 
-- :rocket: I am working as a staff software engineer at <a href="https://tradeshift.com">Tradeshift</a>.
+- :rocket: I am working as chief software architect at <a href="https://www.billwerk.plus/">Billwerk+</a>.
 - :student: M.Sc. in Computer Science from <a href="https://di.ku.dk/english/">DIKU</a> (University of Copenhagen, Department of Computer Science).
 - :fire: More details in my <a href="http://linkedin.com/in/eivindh"><img src="https://brand.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Logo.svg.original.svg" height="20" /></a> profile
 </details>
